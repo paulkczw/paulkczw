@@ -1,9 +1,9 @@
 ## 🛠️ Tech Stack
 
-* **Programming Languages:** Python, Kotlin, Java, TypeScript, JavaScript**
-* **Backend:** Flask, FastAPI, Javalin, Ktor, Spring
-* **Frontend:** Angular, Svelte, TailwindCSS, HTML, Bootstrap CSS
+* **Programming Languages:** Python, Kotlin, Java, TypeScript
+* **Backend:** FastAPI, Flask, Javalin, Ktor
+* **Frontend:** Svelte, Angular, TailwindCSS, HTML, Bootstrap CSS
 * **Databases:** PostgreSQL, MongoDB, Redis, SQLite
-* **Communication**: Kafka, gRPC, Redis Pub/Subs, MQTT, RestAPIs, GraphQL
+* **Communication**: Redis Pub/Subs, RestAPIs, MQTT, Kafka, gRPC, GraphQL
 * **Monitoring:** Sentry, Grafana
-* **DevOps / Infrastructure:** Kubernetes, Docker (Compose), Cloudflared, Tailscale, GitHub Actions
+* **DevOps / Infrastructure:** Docker (Compose), Kubernetes, Cloudflared, Tailscale, GitHub Actions
